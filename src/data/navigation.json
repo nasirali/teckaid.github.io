@@ -1,0 +1,9 @@
+[
+  {"name": "What We Do", "url": "", "dropdownItems": [
+    {"name": "Amazon Product Management", "url": "/test"},
+    {"name": "Amazon PPC Optimizaton", "url": "/test"},
+    {"name": "Brand Protection", "url": "/test"}
+  ]},
+  {"name": "Contact Us", "url": "/contact"},
+  {"name": "About Us", "url": "/aboutus"}
+]
